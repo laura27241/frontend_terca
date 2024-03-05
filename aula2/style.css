@@ -22,6 +22,12 @@
     color: hsl(0, 79%, 50%);
 }
 
+.width-height-1 {
+    width: 200px;
+    height: 200px;
+    background-color: pink;
+}
+
 #id_2{
     background-color: rgb(202, 43, 168);
 }
